@@ -20,7 +20,7 @@ export default function Home() {
         title="Pessoa Usuária"
         isHomePage={false}
         image={guysTypingMobile}
-        alt=""
+        alt="Three people are typing on their cell phones and leaning against a large cell phone with some scenery elements in the background"
       />
       <Footer />
     </>
