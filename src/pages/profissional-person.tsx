@@ -20,7 +20,7 @@ export default function Home() {
         title="Profissional"
         isHomePage={false}
         image={profissional}
-        alt=""
+        alt="Five hospital employees (men and women) with some scenery elements in the background"
       />
       <Footer />
     </>
